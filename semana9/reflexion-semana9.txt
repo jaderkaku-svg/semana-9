@@ -1,0 +1,5 @@
+Porque las plataformas tecnológicas que usan las comunidades almacenan información importante y permiten la participación de muchas personas.
+ Si el servidor funciona de manera estable, los usuarios pueden acceder a la plataforma en cualquier momento sin interrupciones. Además, 
+ la seguridad ayuda a proteger los datos de los usuarios y evita que personas no autorizadas accedan a la información. Un servidor seguro también reduce 
+ el riesgo de ataques informáticos, pérdida de datos o fallas del sistema. Esto genera confianza en la comunidad y garantiza que los servicios funcionen correctamente.
+  Gracias a la estabilidad y seguridad, la plataforma puede apoyar de manera eficiente la comunicación, la organización y la toma de decisiones de la comunidad.

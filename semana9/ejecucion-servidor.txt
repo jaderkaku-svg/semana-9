@@ -1,0 +1,7 @@
+1.¿ Qué ocurre cuando ejecutas node server.jsNode.js?
+  lee e interpreta el archivo server.js.Se levanta un proceso en segundo plano que abre el puerto 3000
+El servidor se queda "escuchando" de forma permanente, esperando recibir peticiones de usuarios. La terminal 
+no te dejará escribir nuevos comandos hasta que cierres el servidor con Ctrl + C.2.
+ 
+ 
+ 
